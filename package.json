@@ -1,0 +1,15 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addTwonumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "document": "^0.4.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
